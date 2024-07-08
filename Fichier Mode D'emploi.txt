@@ -1,0 +1,17 @@
+Le projet a été réalisé en trinome sur les machines de l'université en Espace Wifi, on a jamais eu besoin d'utiliser nos ordinateurs personnels, on a donc aucun fichier d'emploi/installation à transmettre. 
+
+Navigation entre les tables  
+
+EN ouvrant le site, on arrive automatisquement à la page dacceuil contenant 3 tables, une table Laureat, Une Table Prix et une Table Gagne, chacune representant un ensemble specifique de donnees 
+
+IL est possible de naviguer entre les trois tables via des liens sur chaque page qui peut permettre lexecution des taches demandees tel que linsertion dun nouvel element, la modification, la suppression et le detail de chaque element. 
+
+    Insertion d'un nouvel élément : À côté de chaque table, j'ai repéré un bouton ou une option qui permet d'ajouter un nouvel élément à la table correspondante. En cliquant sur ce bouton, j'ai été redirigé vers un formulaire où je peux saisir les informations nécessaires pour créer un nouvel enregistrement.
+
+    Modification d'un élément existant : Pour modifier un élément existant dans une table, j'ai utilisé probablement un bouton "Modifier" ou une icône d'édition située à côté de chaque enregistrement. En cliquant sur cette option, j'ai été dirigé vers un formulaire pré-rempli avec les données de l'élément sélectionné, me permettant de les modifier selon mes besoins.
+
+    Suppression d'un élément : De la même manière, j'ai dû repérer un bouton ou une option pour supprimer un élément. En cliquant sur ce bouton, j'ai confirmé ma décision de supprimer l'élément sélectionné, et il a été retiré de la table.
+
+    Détails d'un élément : Enfin, pour obtenir plus d'informations sur un élément spécifique, j'ai pu utiliser un bouton "Détails" ou une option similaire. En cliquant dessus, j'ai été redirigé vers une page où sont affichées toutes les informations détaillées concernant cet élément.
+
+En suivant ce chemin, j'ai pu naviguer efficacement à travers les différentes fonctionnalités de mon site PHP et interagir avec les données de manière intuitive.
